@@ -18,7 +18,7 @@ namespace MsalConnectDemo
 
         static async Task RunAsync()
         {
-            // Fill in the correct client ID for your app 
+            // Fill in the correct client ID for your app  
             // Go to https://apps.dev.microsoft.com/ to register an app
             const string clientId = "<GUID>";
             // Enter the required scopes
